@@ -2,7 +2,7 @@
 
 ## Apa itu IIF (Iftern)?
 
-**IIF (Iftern)** adalah platform informasi magang (internship) yang dibangun untuk membantu mahasiswa menemukan peluang magang dan studi independen. Aplikasi ini menyediakan:
+**IIF (Iftern)** adalah platform informasi magang (internship) yang dibangun untuk membantu mahasiswa menemukan peluang magang dan studi independen. Saat ini Aplikasi ini menyediakan:
 
 - **Halaman Publik** — Landing page, pencarian lowongan, filter lokasi, dan detail magang
 - **Panel Admin** — Dashboard, manajemen postingan, mitra, user, testimoni, approval, dan aktivitas sistem
