@@ -25,7 +25,7 @@ export default defineConfig({
       {
         text: 'Dokumentasi',
         activeMatch: '^/(introduction|getting-started|architecture|components|styling)/',
-        link: '/introduction/overview',
+        link: '/',
       },
       {
         text: 'Deployment',
@@ -44,7 +44,7 @@ export default defineConfig({
         {
           text: 'Pendahuluan',
           items: [
-            { text: 'Ringkasan Proyek', link: '/introduction/overview' },
+            { text: 'Ringkasan Proyek', link: '/' },
             { text: 'Tech Stack', link: '/introduction/tech-stack' },
             { text: 'Struktur Proyek', link: '/introduction/folder-structure' },
           ],
